@@ -1,0 +1,304 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#ifndef APSTUDIO_INVOKED
+#include "targetver.h"
+#endif
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 中文(中华人民共和国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#ifndef APSTUDIO_INVOKED\r\n"
+    "#include ""targetver.h""\r\n"
+    "#endif\r\n"
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#pragma code_page(936)\r\n"
+    "#include ""res\\CalcFrame.rc2""  // 非 Microsoft Visual C++ 编辑的资源\r\n"
+    "#include ""l.CHS\\afxres.rc""      // 标准组件\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON                    "res\\CalcFrame.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOGEX 0, 0, 170, 62
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "关于 CalcFrame"
+FONT 9, "MS Shell Dlg", 0, 0, 0x1
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,14,14,21,20
+    LTEXT           "CalcFrame，1.0 版",IDC_STATIC,42,14,114,8,SS_NOPREFIX
+    LTEXT           "Copyright (C) 2013",IDC_STATIC,42,26,114,8
+    DEFPUSHBUTTON   "确定",IDOK,113,41,50,14,WS_GROUP
+END
+
+IDD_CALCFRAME_DIALOG DIALOGEX 0, 0, 394, 194
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_MINIMIZEBOX | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "计算器"
+MENU IDR_MENU1
+FONT 9, "MS Shell Dlg", 0, 0, 0x1
+BEGIN
+    GROUPBOX        "",IDC_STATIC_EDIT,7,3,380,37
+    PUSHBUTTON      "MC",IDC_BT_MC,172,53,65,19
+    PUSHBUTTON      "MS",IDC_BT_SAVE,245,53,65,19
+    PUSHBUTTON      "CE",IDC_BT_CE,172,76,24,19
+    PUSHBUTTON      "C",IDC_BT_C,201,76,24,19
+    PUSHBUTTON      "←",IDC_BT_LEFT,230,76,24,19
+    PUSHBUTTON      "±",IDC_BT_FUSHU,259,76,24,19
+    PUSHBUTTON      "√",IDC_BT_KAIFANG,287,76,24,19
+    PUSHBUTTON      "%",IDC_BT_BAIFENHAO,287,97,24,19
+    PUSHBUTTON      "1/x",IDC_BT_DAOSHU,287,119,24,19
+    PUSHBUTTON      "=",IDC_BT_DENGYU,287,141,24,40
+    PUSHBUTTON      "/",IDC_BT_CHU,259,97,24,19
+    PUSHBUTTON      "*",IDC_BT_CHENG,259,119,24,19
+    PUSHBUTTON      "-",IDC_BT_JIAN,259,141,24,19
+    PUSHBUTTON      "+",IDC_BT_JIA,259,162,24,19
+    LISTBOX         IDC_LIST_SAVA,333,49,48,130,LBS_SORT | LBS_NOINTEGRALHEIGHT | NOT WS_BORDER | WS_VSCROLL | WS_TABSTOP
+    PUSHBUTTON      ".",IDC_BT_DIAN,230,162,24,19
+    PUSHBUTTON      "0",IDC_BT_0,172,162,53,19
+    PUSHBUTTON      "1",IDC_BT_1,172,141,23,19
+    PUSHBUTTON      "2",IDC_BT_2,201,141,23,19
+    PUSHBUTTON      "3",IDC_BT_3,230,141,23,19
+    PUSHBUTTON      "4",IDC_BT_4,172,119,23,19
+    PUSHBUTTON      "5",IDC_BT_5,201,119,23,19
+    PUSHBUTTON      "6",IDC_BT_6,230,119,23,19
+    PUSHBUTTON      "7",IDC_BT_7,172,97,24,19
+    PUSHBUTTON      "8",IDC_BT_8,201,97,24,19
+    PUSHBUTTON      "9",IDC_BT_9,230,97,24,19
+    GROUPBOX        "",IDC_STATIC,167,39,151,148
+    PUSHBUTTON      "转大写",IDC_BT_DAXIE,12,76,52,19
+    PUSHBUTTON      "Exp",IDC_BT_EXP,71,76,24,19
+    PUSHBUTTON      "Mod",IDC_BT_MOD,101,76,24,19
+    PUSHBUTTON      "π",IDC_BT_PAI,131,76,24,19
+    PUSHBUTTON      "x2",IDC_BT_PINGFANG,131,97,24,19
+    PUSHBUTTON      "x?",IDC_BT_CIFANG,131,119,24,19
+    PUSHBUTTON      "x3",IDC_BT_LIFANG,131,141,24,19
+    PUSHBUTTON      "10?",IDC_BT_SHICIFANG,131,162,24,19
+    PUSHBUTTON      "n!",IDC_BT_JIECHENG,101,162,24,19
+    PUSHBUTTON      "3√x",IDC_BT_KAILIFANG,101,141,24,19
+    PUSHBUTTON      "?√x",IDC_BT_KAILIFANGN,101,119,24,19
+    PUSHBUTTON      "Log",IDC_BT_LOG,101,97,24,19
+    PUSHBUTTON      "Int",IDC_BT_INT,71,97,24,19
+    PUSHBUTTON      "sin",IDC_BT_SIN,71,119,24,19
+    PUSHBUTTON      "cos",IDC_BT_COS,71,141,24,19
+    PUSHBUTTON      "tan",IDC_BT_TAN,71,162,24,19
+    PUSHBUTTON      "atan",IDC_BT_ATAN,40,162,24,19
+    PUSHBUTTON      "acos",IDC_BT_ACOS,40,141,24,19
+    PUSHBUTTON      "asin",IDC_BT_ASIN,40,119,24,19
+    PUSHBUTTON      "F-E",IDC_BT_FE,40,97,24,19
+    PUSHBUTTON      "ln",IDC_BT_LN,12,97,24,19
+    PUSHBUTTON      "sinh",IDC_BT_SINH,12,119,24,19
+    PUSHBUTTON      "cosh",IDC_BT_COSH,12,141,24,19
+    PUSHBUTTON      "tanh",IDC_BT_TANH,12,162,24,19
+    CONTROL         "角度",IDC_JIAODU,"Button",BS_AUTORADIOBUTTON,35,56,30,10
+    CONTROL         "弧度",IDC_HUDU,"Button",BS_AUTORADIOBUTTON,91,57,30,10
+    GROUPBOX        "",IDC_STATIC,7,39,153,148
+    GROUPBOX        "",IDC_STATIC_JIAOHU,14,48,136,22
+    RTEXT           "12",IDC_STATIC_LIST,11,9,371,8
+    LTEXT           "M",IDC_STATIC_M,9,25,8,8,NOT WS_VISIBLE
+    GROUPBOX        "",IDC_STATIC,328,39,59,148
+    RTEXT           "222222223",IDC_STATIC_MAIN,18,25,364,13,SS_NOTIFY
+END
+
+IDD_CAPITAL DIALOGEX 0, 0, 363, 55
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "转换大写"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_EDIT_CAP,7,18,280,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "复制",IDC_BT_COPY,296,18,50,14
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080403a8"
+        BEGIN
+            VALUE "CompanyName", "TODO: <公司名>"
+            VALUE "FileDescription", "TODO: <文件说明>"
+            VALUE "FileVersion", "1.0.0.1"
+            VALUE "InternalName", "CalcFrame.exe"
+            VALUE "LegalCopyright", "TODO: (C) <公司名>。保留所有权利。"
+            VALUE "OriginalFilename", "CalcFrame.exe"
+            VALUE "ProductName", "TODO: <产品名>"
+            VALUE "ProductVersion", "1.0.0.1"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 936
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 163
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 55
+    END
+
+    IDD_CALCFRAME_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 387
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 187
+    END
+
+    IDD_CAPITAL, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 356
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 48
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MENU1 MENU 
+BEGIN
+    POPUP "查看"
+    BEGIN
+        MENUITEM "标准型",                         ID_32771
+        MENUITEM "科学型",                         ID_32772, CHECKED
+        MENUITEM "总在最前",                        ID_32773
+        MENUITEM "退出",                          IDCANCEL
+    END
+    POPUP "编辑"
+    BEGIN
+        MENUITEM "复制",                          ID_32775
+        MENUITEM "粘帖",                          ID_32776
+    END
+    POPUP "帮助"
+    BEGIN
+        MENUITEM "关于",                          ID_ABOUTBOX
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE 
+BEGIN
+    IDS_ABOUTBOX            "关于 CalcFrame(&A)..."
+END
+
+#endif    // 中文(中华人民共和国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE 4, 2
+#pragma code_page(936)
+#include "res\CalcFrame.rc2"  // 非 Microsoft Visual C++ 编辑的资源
+#include "l.CHS\afxres.rc"      // 标准组件
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

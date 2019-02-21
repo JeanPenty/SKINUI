@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/stdafx.h
+END
+HttpWeather.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/HttpWeather.cpp
+END
+OptionDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/OptionDlg.cpp
+END
+Weather.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/Weather.cpp
+END
+HttpWeather.h
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/HttpWeather.h
+END
+OptionDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/OptionDlg.h
+END
+ParseJson.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/ParseJson.cpp
+END
+Weather.h
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/Weather.h
+END
+RenderEngine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/RenderEngine.cpp
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/targetver.h
+END
+ParseJson.h
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/ParseJson.h
+END
+RenderEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/RenderEngine.h
+END
+ImageEx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/ImageEx.cpp
+END
+Weather.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/Weather.vcproj
+END
+Weather.rc
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/Weather.rc
+END
+ImageEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/ImageEx.h
+END
+WeatherDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/WeatherDlg.cpp
+END
+ServiceThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/ServiceThread.cpp
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/stdafx.cpp
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/ReadMe.txt
+END
+WeatherDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/WeatherDlg.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/resource.h
+END
+ServiceThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/ServiceThread.h
+END

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImageHandle", "ImageHandle\ImageHandle.vcproj", "{E1DA50E2-D9D4-42B4-9FAD-DAC293BA21D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1DA50E2-D9D4-42B4-9FAD-DAC293BA21D0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E1DA50E2-D9D4-42B4-9FAD-DAC293BA21D0}.Debug|Win32.Build.0 = Debug|Win32
+		{E1DA50E2-D9D4-42B4-9FAD-DAC293BA21D0}.Release|Win32.ActiveCfg = Release|Win32
+		{E1DA50E2-D9D4-42B4-9FAD-DAC293BA21D0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

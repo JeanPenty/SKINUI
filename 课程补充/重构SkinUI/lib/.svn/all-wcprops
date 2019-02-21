@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/MFC_CODE/!svn/ver/9/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/lib
+END
+SkinUI_ud.lib
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/MFC_CODE/!svn/ver/9/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/lib/SkinUI_ud.lib
+END
+DuiLib_d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/lib/DuiLib_d.lib
+END
+SkinUI_ScrollBar_ud.lib
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/MFC_CODE/!svn/ver/9/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/lib/SkinUI_ScrollBar_ud.lib
+END
+DuiLib_ud.lib
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/lib/DuiLib_ud.lib
+END
+Detours.lib
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/lib/Detours.lib
+END
+SkinUI_d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/lib/SkinUI_d.lib
+END
+SkinUI_ScrollBar_d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/lib/SkinUI_ScrollBar_d.lib
+END

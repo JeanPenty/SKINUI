@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%89%AB%E9%9B%B7/Landmine/Landmine
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%89%AB%E9%9B%B7/Landmine/Landmine/stdafx.h
+END
+OptionDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%89%AB%E9%9B%B7/Landmine/Landmine/OptionDlg.cpp
+END
+OptionDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%89%AB%E9%9B%B7/Landmine/Landmine/OptionDlg.h
+END
+Landmine.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%89%AB%E9%9B%B7/Landmine/Landmine/Landmine.vcproj
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%89%AB%E9%9B%B7/Landmine/Landmine/targetver.h
+END
+Landmine.rc
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%89%AB%E9%9B%B7/Landmine/Landmine/Landmine.rc
+END
+LandmineDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%89%AB%E9%9B%B7/Landmine/Landmine/LandmineDlg.cpp
+END
+LandmineDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%89%AB%E9%9B%B7/Landmine/Landmine/LandmineDlg.h
+END
+GameFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%89%AB%E9%9B%B7/Landmine/Landmine/GameFrame.cpp
+END
+Landmine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%89%AB%E9%9B%B7/Landmine/Landmine/Landmine.cpp
+END
+GameLogic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%89%AB%E9%9B%B7/Landmine/Landmine/GameLogic.cpp
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%89%AB%E9%9B%B7/Landmine/Landmine/stdafx.cpp
+END
+GameFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%89%AB%E9%9B%B7/Landmine/Landmine/GameFrame.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%89%AB%E9%9B%B7/Landmine/Landmine/ReadMe.txt
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%89%AB%E9%9B%B7/Landmine/Landmine/resource.h
+END
+Landmine.h
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%89%AB%E9%9B%B7/Landmine/Landmine/Landmine.h
+END
+GameLogic.h
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%89%AB%E9%9B%B7/Landmine/Landmine/GameLogic.h
+END

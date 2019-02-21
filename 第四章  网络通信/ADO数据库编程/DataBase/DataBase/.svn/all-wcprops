@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/ADO%E6%95%B0%E6%8D%AE%E5%BA%93%E7%BC%96%E7%A8%8B/DataBase/DataBase
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/ADO%E6%95%B0%E6%8D%AE%E5%BA%93%E7%BC%96%E7%A8%8B/DataBase/DataBase/stdafx.h
+END
+DataBaseManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/ADO%E6%95%B0%E6%8D%AE%E5%BA%93%E7%BC%96%E7%A8%8B/DataBase/DataBase/DataBaseManager.cpp
+END
+DataBaseDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/ADO%E6%95%B0%E6%8D%AE%E5%BA%93%E7%BC%96%E7%A8%8B/DataBase/DataBase/DataBaseDlg.h
+END
+MSADO15.dll
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/ADO%E6%95%B0%E6%8D%AE%E5%BA%93%E7%BC%96%E7%A8%8B/DataBase/DataBase/MSADO15.dll
+END
+DataBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/ADO%E6%95%B0%E6%8D%AE%E5%BA%93%E7%BC%96%E7%A8%8B/DataBase/DataBase/DataBase.cpp
+END
+DataBaseManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/ADO%E6%95%B0%E6%8D%AE%E5%BA%93%E7%BC%96%E7%A8%8B/DataBase/DataBase/DataBaseManager.h
+END
+DataBase.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/ADO%E6%95%B0%E6%8D%AE%E5%BA%93%E7%BC%96%E7%A8%8B/DataBase/DataBase/DataBase.vcproj
+END
+DataBase.rc
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/ADO%E6%95%B0%E6%8D%AE%E5%BA%93%E7%BC%96%E7%A8%8B/DataBase/DataBase/DataBase.rc
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/ADO%E6%95%B0%E6%8D%AE%E5%BA%93%E7%BC%96%E7%A8%8B/DataBase/DataBase/targetver.h
+END
+DataBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/ADO%E6%95%B0%E6%8D%AE%E5%BA%93%E7%BC%96%E7%A8%8B/DataBase/DataBase/DataBase.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/ADO%E6%95%B0%E6%8D%AE%E5%BA%93%E7%BC%96%E7%A8%8B/DataBase/DataBase/stdafx.cpp
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/ADO%E6%95%B0%E6%8D%AE%E5%BA%93%E7%BC%96%E7%A8%8B/DataBase/DataBase/ReadMe.txt
+END
+DataBaseDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/ADO%E6%95%B0%E6%8D%AE%E5%BA%93%E7%BC%96%E7%A8%8B/DataBase/DataBase/DataBaseDlg.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/ADO%E6%95%B0%E6%8D%AE%E5%BA%93%E7%BC%96%E7%A8%8B/DataBase/DataBase/resource.h
+END

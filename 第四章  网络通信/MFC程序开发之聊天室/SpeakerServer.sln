@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SpeakerServer", "SpeakerServer\SpeakerServer.vcproj", "{738C1AD7-D8BB-4A93-9C07-5933F0BCB4E5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SpeakerClient", "SpeakerClient\SpeakerClient.vcproj", "{00D5A581-1C29-4E23-A9A3-1970ACA7B49E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{738C1AD7-D8BB-4A93-9C07-5933F0BCB4E5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{738C1AD7-D8BB-4A93-9C07-5933F0BCB4E5}.Debug|Win32.Build.0 = Debug|Win32
+		{738C1AD7-D8BB-4A93-9C07-5933F0BCB4E5}.Release|Win32.ActiveCfg = Release|Win32
+		{738C1AD7-D8BB-4A93-9C07-5933F0BCB4E5}.Release|Win32.Build.0 = Release|Win32
+		{00D5A581-1C29-4E23-A9A3-1970ACA7B49E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{00D5A581-1C29-4E23-A9A3-1970ACA7B49E}.Debug|Win32.Build.0 = Debug|Win32
+		{00D5A581-1C29-4E23-A9A3-1970ACA7B49E}.Release|Win32.ActiveCfg = Release|Win32
+		{00D5A581-1C29-4E23-A9A3-1970ACA7B49E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,37 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SkinUI_ScrollBar", "SkinUI_ScrollBar.vcproj", "{BAE19B94-710F-4994-BA83-1D17E51680E5}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{BAE19B94-710F-4994-BA83-1D17E51680E5}.Debug.ActiveCfg = Debug|Win32
+		{BAE19B94-710F-4994-BA83-1D17E51680E5}.Debug.Build.0 = Debug|Win32
+		{BAE19B94-710F-4994-BA83-1D17E51680E5}.Release.ActiveCfg = Release|Win32
+		{BAE19B94-710F-4994-BA83-1D17E51680E5}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAE19B94-710F-4994-BA83-1D17E51680E5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BAE19B94-710F-4994-BA83-1D17E51680E5}.Debug|Win32.Build.0 = Debug|Win32
+		{BAE19B94-710F-4994-BA83-1D17E51680E5}.Release|Win32.ActiveCfg = Release|Win32
+		{BAE19B94-710F-4994-BA83-1D17E51680E5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

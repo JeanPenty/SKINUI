@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip
+END
+infcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip/infcodes.h
+END
+inffast.h
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip/inffast.h
+END
+inffixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip/inffixed.h
+END
+deflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip/deflate.c
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip/zlib.h
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip/zutil.c
+END
+gzio.c
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip/gzio.c
+END
+deflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip/deflate.h
+END
+infutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip/infutil.c
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip/zutil.h
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip/crc32.c
+END
+GZipHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip/GZipHelper.h
+END
+infutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip/infutil.h
+END
+inftrees.c
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip/inftrees.c
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip/inflate.c
+END
+trees.c
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip/trees.c
+END
+uncompr.c
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip/uncompr.c
+END
+zlib.lib
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip/zlib.lib
+END
+inftrees.h
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip/inftrees.h
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip/zconf.h
+END
+trees.h
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip/trees.h
+END
+infblock.c
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip/infblock.c
+END
+infcodes.c
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip/infcodes.c
+END
+inffast.c
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip/inffast.c
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip/compress.c
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip/adler32.c
+END
+infblock.h
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip/infblock.h
+END
+maketree.c
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/WinInet%E4%B9%8B%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/Weather/Weather/gzip/maketree.c
+END

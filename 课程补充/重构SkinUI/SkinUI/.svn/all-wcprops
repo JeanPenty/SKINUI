@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/MFC_CODE/!svn/ver/9/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI
+END
+SkinComboBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinComboBox.h
+END
+SkinUI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinUI.cpp
+END
+SkinUI.aps
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinUI.aps
+END
+SkinButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinButton.h
+END
+SkinUI_ud.def
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinUI_ud.def
+END
+GifImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/GifImage.cpp
+END
+SkinEdit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/MFC_CODE/!svn/ver/9/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinEdit.cpp
+END
+ImageOle.dll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/ImageOle.dll
+END
+SkinListBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinListBox.h
+END
+SkinTreeCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinTreeCtrl.h
+END
+SkinProgressCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinProgressCtrl.cpp
+END
+BuildDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/BuildDialog.cpp
+END
+dllmain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/dllmain.cpp
+END
+SkinTabCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinTabCtrl.cpp
+END
+SkinUI.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinUI.vcproj
+END
+ISkinControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/ISkinControl.h
+END
+MemoryDC.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/MemoryDC.h
+END
+SkinRichEdit.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinRichEdit.h
+END
+Function.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/Function.cpp
+END
+SkinToolBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinToolBar.cpp
+END
+SkinListCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinListCtrl.h
+END
+SkinComboBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/MFC_CODE/!svn/ver/9/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinComboBox.cpp
+END
+FlashControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/FlashControl.cpp
+END
+SkinSliderCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinSliderCtrl.h
+END
+Macro.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/Macro.h
+END
+SkinUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinUI.h
+END
+SkinListBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinListBox.cpp
+END
+SkinTreeCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinTreeCtrl.cpp
+END
+GifImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/GifImage.h
+END
+MemoryDC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/MemoryDC.cpp
+END
+SkinEdit.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/MFC_CODE/!svn/ver/9/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinEdit.h
+END
+SkinUI_d.def
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinUI_d.def
+END
+SkinProgressCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinProgressCtrl.h
+END
+SkinTabCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinTabCtrl.h
+END
+SkinListCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinListCtrl.cpp
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/ReadMe.txt
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/stdafx.h
+END
+SkinUI_u.def
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinUI_u.def
+END
+FlashControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/FlashControl.h
+END
+SkinScrollBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinScrollBar.cpp
+END
+RenderManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/RenderManager.cpp
+END
+SkinUI.def
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinUI.def
+END
+SkinDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinDialog.cpp
+END
+ImageEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/ImageEx.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/stdafx.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/resource.h
+END
+SkinMenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinMenu.h
+END
+SkinButton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinButton.cpp
+END
+XmlManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/XmlManager.h
+END
+Flash.ocx
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/Flash.ocx
+END
+SkinScrollBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinScrollBar.h
+END
+ISkinControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/MFC_CODE/!svn/ver/9/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/ISkinControl.cpp
+END
+RenderManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/RenderManager.h
+END
+ImageEx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/ImageEx.cpp
+END
+SkinRichEdit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinRichEdit.cpp
+END
+BuildDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/BuildDialog.h
+END
+SkinUI.rc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinUI.rc
+END
+SkinMenu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinMenu.cpp
+END
+SkinDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinDialog.h
+END
+Function.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/Function.h
+END
+XmlManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/XmlManager.cpp
+END
+SkinSliderCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinSliderCtrl.cpp
+END
+SkinToolBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/MFC_CODE/!svn/ver/8/%E8%AF%BE%E7%A8%8B%E8%A1%A5%E5%85%85/%E9%87%8D%E6%9E%84SkinUI/SkinUI/SkinToolBar.h
+END

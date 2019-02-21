@@ -1,0 +1,541 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#ifndef APSTUDIO_INVOKED
+#include "targetver.h"
+#endif
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 中文(中华人民共和国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#ifndef APSTUDIO_INVOKED\r\n"
+    "#include ""targetver.h""\r\n"
+    "#endif\r\n"
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#pragma code_page(936)\r\n"
+    "#include ""res\\Control.rc2""  // 非 Microsoft Visual C++ 编辑的资源\r\n"
+    "#include ""l.CHS\\afxres.rc""      // 标准组件\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON                    "res\\Control.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_CONTROL_DIALOG DIALOGEX 0, 0, 342, 266
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_POPUP | WS_VISIBLE | WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+FONT 9, "MS Shell Dlg", 0, 0, 0x1
+BEGIN
+END
+
+IDD_BUTTON DIALOGEX 0, 0, 316, 215
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    CONTROL         "第一组单选1",IDC_RADIO2,"Button",BS_AUTORADIOBUTTON | WS_GROUP,25,115,60,10
+    CONTROL         "第一组单选2",IDC_RADIO3,"Button",BS_AUTORADIOBUTTON,25,133,60,10
+    CONTROL         "第二组单选1",IDC_RADIO4,"Button",BS_AUTORADIOBUTTON | WS_GROUP,25,160,60,10
+    CONTROL         "第二组单选2",IDC_RADIO5,"Button",BS_AUTORADIOBUTTON,25,179,60,10
+    CONTROL         "选中1",IDC_CHECK1,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,20,94,36,10
+    CONTROL         "选中2",IDC_CHECK2,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,64,94,36,10
+    PUSHBUTTON      "Button1",IDC_BUTTON1,15,36,50,14
+    PUSHBUTTON      "查看本例讲解",IDC_BUTTON2,71,36,58,14
+    PUSHBUTTON      "",IDC_BUTTON3,135,37,50,14
+    PUSHBUTTON      "",IDC_BUTTON4,193,26,50,14
+    CONTROL         "选中3",IDC_CHECK3,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,137,94,36,10
+    CONTROL         "第二组单选3",IDC_RADIO6,"Button",BS_AUTORADIOBUTTON,25,198,60,10
+    PUSHBUTTON      "",IDC_BUTTON5,135,124,28,14
+    PUSHBUTTON      "安全",IDC_BUTTON6,172,124,28,14
+    PUSHBUTTON      "",IDC_BUTTON7,141,169,50,14
+END
+
+IDD_EDIT DIALOGEX 0, 0, 317, 215
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_EDIT1,21,28,97,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT2,21,124,97,41,ES_MULTILINE | ES_WANTRETURN | WS_VSCROLL
+    EDITTEXT        IDC_EDIT3,21,60,97,14,ES_AUTOHSCROLL | ES_NUMBER
+    EDITTEXT        IDC_EDIT4,21,92,97,14,ES_PASSWORD | ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT5,159,33,126,14,ES_AUTOHSCROLL
+    LTEXT           "正常控件",IDC_STATIC,4,15,33,8
+    LTEXT           "只能输入数字",IDC_STATIC,4,47,49,8
+    LTEXT           "密码形式",IDC_STATIC,4,79,33,8
+    LTEXT           "多行显示",IDC_STATIC,4,111,33,8
+    PUSHBUTTON      "仅限数字",IDC_BUTTON2,159,55,38,14
+    PUSHBUTTON      "密码形式",IDC_BUTTON3,249,55,38,14
+    GROUPBOX        "动态设置属性",IDC_STATIC,146,16,150,102
+    PUSHBUTTON      "获取文本",IDC_BUTTON4,204,55,38,14
+    PUSHBUTTON      "复制",IDC_BUTTON8,159,78,38,14
+    PUSHBUTTON      "黏贴",IDC_BUTTON9,205,78,38,14
+    PUSHBUTTON      "剪切",IDC_BUTTON10,251,78,38,14
+    PUSHBUTTON      "清除",IDC_BUTTON11,160,97,38,14
+    PUSHBUTTON      "只读",IDC_BUTTON12,251,97,38,14
+    PUSHBUTTON      "撤销",IDC_BUTTON13,204,98,38,14
+    PUSHBUTTON      "本例讲解请进我的博客 www.gymsaga.com",IDC_BUTTON1,6,198,304,14
+    EDITTEXT        IDC_EDIT6,146,128,150,18,ES_MULTILINE | ES_WANTRETURN
+    EDITTEXT        IDC_EDIT7,21,178,119,14,ES_AUTOHSCROLL | WS_DISABLED
+END
+
+IDD_COMBOX DIALOGEX 0, 0, 316, 219
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    COMBOBOX        IDC_COMBO1,53,30,101,70,CBS_DROPDOWN | CBS_SORT | WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_COMBO2,53,52,101,69,CBS_DROPDOWNLIST | CBS_SORT | WS_VSCROLL | WS_TABSTOP
+    LTEXT           "DropDown",IDC_STATIC,15,32,34,8
+    LTEXT           "DropList",IDC_STATIC,15,54,27,8
+    COMBOBOX        IDC_COMBO3,18,193,48,86,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_COMBO4,89,193,48,95,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    GROUPBOX        "经典用法",IDC_STATIC,7,176,141,36
+    PUSHBUTTON      "获取文本",IDC_BUTTON1,15,84,38,14
+    PUSHBUTTON      "SetItemData",IDC_BUTTON14,15,106,60,14
+    PUSHBUTTON      "SetItemDataPtr",IDC_BUTTON15,15,127,60,14
+    PUSHBUTTON      "GetItemData",IDC_BUTTON16,83,105,60,14
+    PUSHBUTTON      "GetItemDataPtr",IDC_BUTTON17,83,126,60,14
+    PUSHBUTTON      "获取总数",IDC_BUTTON2,60,84,38,14
+    PUSHBUTTON      "清空所有",IDC_BUTTON3,105,84,38,14
+    GROUPBOX        "应用举例",IDC_STATIC,7,71,146,79
+    PUSHBUTTON      "改变Edit高度",IDC_BUTTON4,15,155,57,14
+    PUSHBUTTON      "改变ListBox高度",IDC_BUTTON8,81,155,68,14
+    PUSHBUTTON      "本例讲解请进我的博客 www.gymsaga.com",IDC_BUTTON5,153,198,149,14
+    COMBOBOX        IDC_COMBO5,184,31,101,90,CBS_DROPDOWN | CBS_SORT | WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_COMBO6,184,53,101,85,CBS_DROPDOWN | CBS_OWNERDRAWVARIABLE | CBS_SORT | CBS_HASSTRINGS | WS_VSCROLL | WS_TABSTOP
+END
+
+IDD_LISTBOXDLG DIALOGEX 0, 0, 278, 200
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 9, "MS Shell Dlg", 0, 0, 0x0
+BEGIN
+    LISTBOX         IDC_LIST1,7,18,65,175,LBS_OWNERDRAWVARIABLE | LBS_HASSTRINGS | LBS_NOINTEGRALHEIGHT | LBS_EXTENDEDSEL | WS_VSCROLL | WS_TABSTOP
+    PUSHBUTTON      "添加节点",IDC_BUTTON1,75,19,60,14
+    PUSHBUTTON      "删除选中节点",IDC_BUTTON14,140,19,60,14
+    PUSHBUTTON      "获取数量",IDC_BUTTON15,75,62,60,14
+    PUSHBUTTON      "获取选中节点编号",IDC_BUTTON16,75,41,60,14
+    PUSHBUTTON      "获取选中节点数量",IDC_BUTTON17,140,42,60,14
+    PUSHBUTTON      "获取文本",IDC_BUTTON18,140,62,60,14
+    PUSHBUTTON      "查找节点FindString",IDC_BUTTON2,205,42,62,14
+    PUSHBUTTON      "查找节点SelectString",IDC_BUTTON3,205,62,62,14
+    EDITTEXT        IDC_EDIT1,236,20,30,14,ES_AUTOHSCROLL
+    LTEXT           "查找文本",IDC_STATIC,205,22,28,8
+    PUSHBUTTON      "本节实例讲解",IDC_BUTTON4,73,179,198,14
+    LISTBOX         IDC_LIST2,126,81,137,92,LBS_OWNERDRAWVARIABLE | LBS_HASSTRINGS | LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_TABSTOP
+END
+
+IDD_SCROLL DIALOGEX 0, 0, 316, 182
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    SCROLLBAR       IDC_SCROLLBAR1,68,17,164,11
+    SCROLLBAR       IDC_SCROLLBAR2,19,15,10,95,SBS_VERT
+    PUSHBUTTON      "开始",IDC_BUTTON1,75,56,50,14
+    PUSHBUTTON      "停止",IDC_BUTTON14,143,56,50,14
+END
+
+IDD_SLIDER DIALOGEX 0, 0, 316, 182
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    CONTROL         "",IDC_SLIDER1,"msctls_trackbar32",TBS_VERT | TBS_BOTH | TBS_NOTICKS | WS_TABSTOP,273,25,19,124
+    CONTROL         "",IDC_SLIDER2,"msctls_trackbar32",TBS_AUTOTICKS | WS_TABSTOP,67,69,156,17
+    CONTROL         "",IDC_SLIDER3,"msctls_trackbar32",TBS_BOTH | TBS_NOTICKS | WS_TABSTOP,67,23,157,15
+    CONTROL         "",IDC_SLIDER4,"msctls_trackbar32",TBS_TOP | WS_TABSTOP,67,47,157,15
+    LTEXT           "正常状态：",IDC_STATIC,7,28,41,8
+    LTEXT           "正常状态：",IDC_STATIC,7,50,41,8
+    LTEXT           "刻度样式：",IDC_STATIC,7,71,41,8
+    EDITTEXT        IDC_EDIT1,54,98,71,14,ES_AUTOHSCROLL
+    LTEXT           "显示的值：",IDC_STATIC,7,100,41,8
+    PUSHBUTTON      "当前位置1",IDC_BUTTON1,153,98,50,14
+    PUSHBUTTON      "刻度总数",IDC_BUTTON14,218,97,50,14
+    EDITTEXT        IDC_EDIT2,230,69,25,14,ES_AUTOHSCROLL
+    CONTROL         "",IDC_SLIDER5,"msctls_trackbar32",TBS_BOTH | TBS_NOTICKS | WS_TABSTOP,23,137,100,15
+END
+
+IDD_PROGRESS DIALOGEX 0, 0, 316, 182
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    CONTROL         "",IDC_PROGRESS1,"msctls_progress32",0x0,17,93,198,14
+    CONTROL         "",IDC_PROGRESS2,"msctls_progress32",PBS_VERTICAL,236,41,16,118
+END
+
+IDD_LISTCTRL DIALOGEX 0, 0, 598, 392
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    CONTROL         "",IDC_LIST1,"SysListView32",LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,9,24,178,93
+    CONTROL         "",IDC_LIST2,"SysListView32",LVS_SMALLICON | LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,196,24,178,93
+    CONTROL         "",IDC_LIST3,"SysListView32",LVS_LIST | LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,381,24,178,93
+    CONTROL         "",IDC_LIST4,"SysListView32",LVS_REPORT | LVS_SINGLESEL | LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,7,122,305,93
+    PUSHBUTTON      "添加",IDC_BUTTON1,323,126,50,14
+    PUSHBUTTON      "Check状态",IDC_BUTTON2,375,126,50,14
+    PUSHBUTTON      "获取选中行",IDC_BUTTON3,427,126,50,14
+    PUSHBUTTON      "获取最后一行节点信息",IDC_BUTTON14,323,142,102,14
+    PUSHBUTTON      "使最后一行节点可见",IDC_BUTTON15,323,158,102,14
+    PUSHBUTTON      "取消选中",IDC_BUTTON16,427,145,50,14
+    PUSHBUTTON      "获取标题头文本",IDC_BUTTON17,323,177,153,14
+    PUSHBUTTON      "删除所有",IDC_BUTTON18,427,158,50,14
+    PUSHBUTTON      "删除所有节点",IDC_BUTTON19,323,196,98,14
+    PUSHBUTTON      "删除节点",IDC_BUTTON20,425,196,50,14
+    CONTROL         "",IDC_LIST5,"SysListView32",LVS_REPORT | LVS_OWNERDRAWFIXED | LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,7,222,268,134
+    PUSHBUTTON      "获取被Check的节点",IDC_BUTTON4,7,363,111,14
+    CONTROL         "",IDC_LIST6,"SysListView32",LVS_REPORT | LVS_OWNERDRAWFIXED | LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,298,221,284,154
+    PUSHBUTTON      "禁止标头控件调节宽度",IDC_BUTTON8,196,359,96,14
+END
+
+IDD_TREE DIALOGEX 0, 0, 537, 244
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    CONTROL         "",IDC_TREE1,"SysTreeView32",TVS_HASLINES | WS_BORDER | WS_HSCROLL | WS_TABSTOP,22,15,139,205
+    PUSHBUTTON      "展开节点",IDC_BUTTON1,165,15,50,14
+    PUSHBUTTON      "收缩节点",IDC_BUTTON14,217,15,50,14
+    PUSHBUTTON      "删除选中节点",IDC_BUTTON2,165,35,74,14
+    PUSHBUTTON      "删除所有节点",IDC_BUTTON3,243,35,83,14
+    PUSHBUTTON      "获取数量",IDC_BUTTON4,269,15,56,14
+    PUSHBUTTON      "背景颜色",IDC_BUTTON5,165,54,50,14
+    PUSHBUTTON      "文字颜色",IDC_BUTTON10,217,54,50,14
+    PUSHBUTTON      "有无父节点",IDC_BUTTON11,272,54,50,14
+    PUSHBUTTON      "是否有子节点",IDC_BUTTON21,165,72,58,14
+    PUSHBUTTON      "获取选中节点文本",IDC_BUTTON22,227,72,94,14
+    PUSHBUTTON      "选中节点是否被Check",IDC_BUTTON7,169,95,88,14
+    CONTROL         "TVS_CHECKBOXES",IDC_CHECK2,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,163,129,75,10
+    CONTROL         "TVS_HASBUTTONS",IDC_CHECK4,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,251,129,76,10
+    CONTROL         "TVS_HASLINES",IDC_CHECK5,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,163,144,64,10
+    CONTROL         "TVS_LINESATROOT",IDC_CHECK6,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,248,161,79,10
+    CONTROL         "TVS_EDITLABELS",IDC_CHECK7,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,163,161,71,10
+    CONTROL         "TVS_DISABLEDRAGDROP",IDC_CHECK8,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,230,143,97,10
+    CONTROL         "TVS_SHOWSELALWAYS",IDC_CHECK9,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,163,178,91,10
+    CONTROL         "TVS_TRACKSELECT",IDC_CHECK10,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,252,178,75,10
+    PUSHBUTTON      "修改属性",IDC_BUTTON13,175,204,134,14
+    CONTROL         "TVS_FULLROWSELECT",IDC_CHECK11,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,163,192,88,10
+    CONTROL         "",IDC_TREE2,"SysTreeView32",TVS_FULLROWSELECT | WS_BORDER | WS_HSCROLL | WS_TABSTOP,331,14,141,203
+END
+
+IDD_TAB DIALOGEX 0, 0, 330, 182
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    CONTROL         "",IDC_TAB1,"SysTabControl32",TCS_MULTILINE,17,15,142,61
+    CONTROL         "",IDC_TAB2,"SysTabControl32",TCS_HOTTRACK,167,21,150,52
+    CONTROL         "",IDC_TAB3,"SysTabControl32",TCS_HOTTRACK | TCS_BUTTONS | TCS_MULTISELECT,19,84,294,17
+    CONTROL         "",IDC_TAB4,"SysTabControl32",TCS_FIXEDWIDTH,17,109,294,23
+    CONTROL         "",IDC_TAB5,"SysTabControl32",TCS_FIXEDWIDTH,15,144,294,23
+END
+
+IDD_RICHEDIT DIALOGEX 0, 0, 553, 217
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    CONTROL         "",IDC_RICHEDIT21,"RichEdit20A",ES_MULTILINE | ES_WANTRETURN | WS_BORDER | WS_VSCROLL | WS_TABSTOP,16,22,253,162
+    PUSHBUTTON      "字体格式",IDC_BUTTON1,7,188,50,14
+    PUSHBUTTON      "加载文件",IDC_BUTTON2,66,188,50,14
+    CONTROL         "",IDC_RICHEDIT22,"RichEdit20A",ES_MULTILINE | ES_NOHIDESEL | ES_READONLY | WS_BORDER | WS_VSCROLL | WS_TABSTOP,284,23,253,137
+    PUSHBUTTON      "加载文件",IDC_BUTTON3,66,188,50,14
+    PUSHBUTTON      "保存文件",IDC_BUTTON4,121,188,50,14
+    PUSHBUTTON      "设置超链接",IDC_BUTTON5,177,188,50,14
+    EDITTEXT        IDC_EDIT1,283,166,203,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "插入",IDC_BUTTON6,492,167,43,14
+    PUSHBUTTON      "设置字体",IDC_BUTTON7,285,188,43,14
+    PUSHBUTTON      "插入位图",IDC_BUTTON10,334,189,50,14
+END
+
+IDD_MENU DIALOGEX 0, 0, 316, 182
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080403a8"
+        BEGIN
+            VALUE "CompanyName", "TODO: <公司名>"
+            VALUE "FileDescription", "TODO: <文件说明>"
+            VALUE "FileVersion", "1.0.0.1"
+            VALUE "InternalName", "Control.exe"
+            VALUE "LegalCopyright", "TODO: (C) <公司名>。保留所有权利。"
+            VALUE "OriginalFilename", "Control.exe"
+            VALUE "ProductName", "TODO: <产品名>"
+            VALUE "ProductVersion", "1.0.0.1"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 936
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_CONTROL_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 335
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 259
+    END
+
+    IDD_BUTTON, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 309
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 208
+    END
+
+    IDD_EDIT, DIALOG
+    BEGIN
+        RIGHTMARGIN, 310
+        BOTTOMMARGIN, 212
+    END
+
+    IDD_COMBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 309
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 212
+    END
+
+    IDD_LISTBOXDLG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 271
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 193
+    END
+
+    IDD_SCROLL, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 309
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 175
+    END
+
+    IDD_SLIDER, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 309
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 177
+    END
+
+    IDD_PROGRESS, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 309
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 175
+    END
+
+    IDD_LISTCTRL, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 591
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 385
+    END
+
+    IDD_TREE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 530
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 237
+    END
+
+    IDD_TAB, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 323
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 175
+    END
+
+    IDD_RICHEDIT, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 546
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 210
+    END
+
+    IDD_MENU, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 309
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 175
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// IMAGE
+//
+
+LOGO                    IMAGE                   "res\\logo.png"
+BACK_VIEW               IMAGE                   "res\\BACK_VIEW.jpg"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MENU1 MENU 
+BEGIN
+    POPUP "Item1"
+    BEGIN
+        MENUITEM "Item",                        ID_ITEM1_ITEM
+        MENUITEM "Item",                        ID_ITEM1_ITEM32772
+        MENUITEM "Item",                        ID_ITEM1_ITEM32773
+        MENUITEM "Item",                        ID_ITEM1_ITEM32774
+    END
+END
+
+IDR_MENU2 MENU 
+BEGIN
+    POPUP "文件"
+    BEGIN
+        MENUITEM "新建",                          ID_32775
+        MENUITEM "保存",                          ID_32776
+        MENUITEM "退出",                          ID_32777
+    END
+    POPUP "编辑"
+    BEGIN
+        MENUITEM "复制",                          ID_32779
+        MENUITEM "黏贴",                          ID_32780
+        MENUITEM "撤销",                          ID_32781
+        MENUITEM "剪切",                          ID_32782
+    END
+    MENUITEM "视图",                          0
+    MENUITEM "项目",                          0
+    MENUITEM "生成",                          0
+    MENUITEM "调试",                          0
+    MENUITEM "工具",                          0
+    MENUITEM "测试",                          0
+    MENUITEM "窗口",                          0
+    POPUP "帮助"
+    BEGIN
+        MENUITEM "关于",                          ID_32778
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_SERVER_LIST_IMAGE   BITMAP                  "res\\SERVER_LIST_IMAGE.bmp"
+#endif    // 中文(中华人民共和国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE 4, 2
+#pragma code_page(936)
+#include "res\Control.rc2"  // 非 Microsoft Visual C++ 编辑的资源
+#include "l.CHS\afxres.rc"      // 标准组件
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

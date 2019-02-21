@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/Bass%E5%BA%93%E4%B9%8B%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/GMusic/GMusic
+END
+BassMusic.h
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/Bass%E5%BA%93%E4%B9%8B%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/GMusic/GMusic/BassMusic.h
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/Bass%E5%BA%93%E4%B9%8B%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/GMusic/GMusic/stdafx.h
+END
+BaseDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/Bass%E5%BA%93%E4%B9%8B%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/GMusic/GMusic/BaseDialog.h
+END
+SkinDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/Bass%E5%BA%93%E4%B9%8B%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/GMusic/GMusic/SkinDlg.h
+END
+GMusic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/Bass%E5%BA%93%E4%B9%8B%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/GMusic/GMusic/GMusic.vcproj
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/Bass%E5%BA%93%E4%B9%8B%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/GMusic/GMusic/targetver.h
+END
+GMusic.rc
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/Bass%E5%BA%93%E4%B9%8B%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/GMusic/GMusic/GMusic.rc
+END
+MusicList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/Bass%E5%BA%93%E4%B9%8B%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/GMusic/GMusic/MusicList.cpp
+END
+GMusicDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/Bass%E5%BA%93%E4%B9%8B%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/GMusic/GMusic/GMusicDlg.cpp
+END
+ScrollBarEx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/Bass%E5%BA%93%E4%B9%8B%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/GMusic/GMusic/ScrollBarEx.cpp
+END
+MusicList.h
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/Bass%E5%BA%93%E4%B9%8B%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/GMusic/GMusic/MusicList.h
+END
+GMusicDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/Bass%E5%BA%93%E4%B9%8B%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/GMusic/GMusic/GMusicDlg.h
+END
+GMusic.vcproj.GORDON.gym1039.user
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/Bass%E5%BA%93%E4%B9%8B%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/GMusic/GMusic/GMusic.vcproj.GORDON.gym1039.user
+END
+WebPublicize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/Bass%E5%BA%93%E4%B9%8B%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/GMusic/GMusic/WebPublicize.cpp
+END
+ScrollBarEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/Bass%E5%BA%93%E4%B9%8B%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/GMusic/GMusic/ScrollBarEx.h
+END
+WebBrowser.h
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/Bass%E5%BA%93%E4%B9%8B%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/GMusic/GMusic/WebBrowser.h
+END
+GMusic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/Bass%E5%BA%93%E4%B9%8B%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/GMusic/GMusic/GMusic.cpp
+END
+BassMusic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/Bass%E5%BA%93%E4%B9%8B%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/GMusic/GMusic/BassMusic.cpp
+END
+WebPublicize.h
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/Bass%E5%BA%93%E4%B9%8B%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/GMusic/GMusic/WebPublicize.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/Bass%E5%BA%93%E4%B9%8B%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/GMusic/GMusic/stdafx.cpp
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/Bass%E5%BA%93%E4%B9%8B%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/GMusic/GMusic/ReadMe.txt
+END
+BaseDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/Bass%E5%BA%93%E4%B9%8B%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/GMusic/GMusic/BaseDialog.cpp
+END
+SkinDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/Bass%E5%BA%93%E4%B9%8B%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/GMusic/GMusic/SkinDlg.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/Bass%E5%BA%93%E4%B9%8B%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/GMusic/GMusic/resource.h
+END
+GMusic.h
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/Bass%E5%BA%93%E4%B9%8B%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/GMusic/GMusic/GMusic.h
+END
+bass.h
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/Bass%E5%BA%93%E4%B9%8B%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/GMusic/GMusic/bass.h
+END

@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/stdafx.h
+END
+MenuDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/MenuDlg.h
+END
+Control.rc
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/Control.rc
+END
+ControlDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/ControlDlg.cpp
+END
+ButtonDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/ButtonDlg.h
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/targetver.h
+END
+TreeCtrlDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/TreeCtrlDlg.cpp
+END
+EditDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/EditDlg.cpp
+END
+SliderDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/SliderDlg.h
+END
+ListBoxDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/ListBoxDlg.h
+END
+Control.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/Control.cpp
+END
+ListBoxEx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/ListBoxEx.cpp
+END
+ComBoxDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/ComBoxDlg.h
+END
+DlgControlItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/DlgControlItem.cpp
+END
+TabCtrlDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/TabCtrlDlg.h
+END
+ListCtrlDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/ListCtrlDlg.cpp
+END
+RichEditDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/RichEditDlg.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/stdafx.cpp
+END
+ScrollDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/ScrollDlg.h
+END
+MenuDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/MenuDlg.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/resource.h
+END
+ProgressDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/ProgressDlg.h
+END
+Control.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/Control.vcproj
+END
+ButtonDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/ButtonDlg.cpp
+END
+SliderDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/SliderDlg.cpp
+END
+ListBoxDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/ListBoxDlg.cpp
+END
+ControlDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/ControlDlg.h
+END
+ComBoxDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/ComBoxDlg.cpp
+END
+TreeCtrlDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/TreeCtrlDlg.h
+END
+EditDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/EditDlg.h
+END
+RichEditDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/RichEditDlg.cpp
+END
+TabCtrlDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/TabCtrlDlg.cpp
+END
+Control.h
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/Control.h
+END
+ScrollDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/ScrollDlg.cpp
+END
+ListBoxEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/ListBoxEx.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/ReadMe.txt
+END
+DlgControlItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/DlgControlItem.h
+END
+ProgressDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/ProgressDlg.cpp
+END
+ListCtrlDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/Control/ListCtrlDlg.h
+END

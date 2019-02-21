@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window size="910,610" sizebox="10,10,12,12" roundcorner="0,0" caption="0,0,0,90" mininfo="910,610" bktrans="true" shadow="true" shadowimage="shadow.png" shadowtopleft="0,0,5,3" shadowtopright="205,0,5,3" shadowbottomleft="0,136,5,7" shadowbottomright="205,136,5,7">
+  <Font name="微软雅黑" size="12" />
+  <Font name="微软雅黑" size="16" />
+  <Font name="微软雅黑" size="22" />
+  <VerticalLayout bkimage="file='bg.png'">
+    <HorizontalLayout height="33" inset="0,3,0,0">
+      <HorizontalLayout>
+        <Text text="360安全卫士9.2" pos="15, 10, 200, 50" float="true" textcolor="#FFFFFF" font="0" />
+      </HorizontalLayout>
+	  <HorizontalLayout width="40" height="30">
+		<Button maxwidth="26" inset="200,10,0,0" normalimage="medal.png"/>
+	  </HorizontalLayout>
+      <HorizontalLayout width="150">
+		<Button name="skinbtn" maxwidth="27" maxheight="22" normalimage="skin_normal.png" hotimage="skin_hover.png" pushedimage="skin_pressed.png"/>
+		<Button name="feedbackbtn" maxwidth="27" maxheight="22" normalimage="feedback_normal.png" hotimage="feedback_hover.png" pushedimage="feedback_pressed.png"/>
+		<Button name="maxbtn" maxwidth="27" maxheight="22" normalimage="menu_normal.png" hotimage="menu_hover.png" pushedimage="menu_pressed.png"/>
+		<Button name="minbtn" maxwidth="27" maxheight="22" normalimage="min_normal.png" hotimage="min_hover.png" pushedimage="min_pressed.png"/>
+        <Button name="closebtn" maxwidth="27" maxheight="22" normalimage="close_normal.png" hotimage="close_hover.png" pushedimage="close_pressed.png"/>
+      </HorizontalLayout>
+    </HorizontalLayout>
+	<HorizontalLayout height="85">
+		<HorizontalLayout>
+			<Option pos="15,10,85,85" float="true" align="bottom" text="电脑体检" textpadding="11,55,0,0" font="0" textcolor="#FFFFFF" selected="true" foreimage="file='ico_Examine.png' dest='11,5,59,53'" normalimage="toolbar_normal.png" hotimage="file='toolbar_hover.png' source='80,0,160,75'" pushedimage="file='toolbar_hover.png' source='80,0,160,75'" selectedimage="file='toolbar_hover.png' source='80,0,160,75'" group="main_toolbar" selected="true"/>
+			<Option pos="97,10,167,85" float="true" align="bottom" text="木马查杀" textpadding="11,55,0,0" font="0" textcolor="#FFFFFF" selected="true" foreimage="file='ico_dsmain.png' dest='11,5,59,53'" normalimage="toolbar_normal.png" hotimage="file='toolbar_hover.png' source='80,0,160,75'" pushedimage="file='toolbar_hover.png' source='80,0,160,75'"  selectedimage="file='toolbar_hover.png' source='80,0,160,75'" group="main_toolbar" selected="false"/>
+			<Option pos="179,10,249,85" float="true" align="bottom" text="系统修复" textpadding="11,55,0,0" font="0" textcolor="#FFFFFF" selected="true" foreimage="file='ico_SysRepair.png' dest='11,5,59,53'" normalimage="toolbar_normal.png" hotimage="file='toolbar_hover.png' source='80,0,160,75'" pushedimage="file='toolbar_hover.png' source='80,0,160,75'"  selectedimage="file='toolbar_hover.png' source='80,0,160,75'" group="main_toolbar" selected="false"/>
+			<Option pos="261,10,331,85" float="true" align="bottom" text="电脑清理" textpadding="11,55,0,0" font="0" textcolor="#FFFFFF" selected="true" foreimage="file='ico_TraceCleaner.png' dest='11,5,59,53'" normalimage="toolbar_normal.png" hotimage="file='toolbar_hover.png' source='80,0,160,75'" pushedimage="file='toolbar_hover.png' source='80,0,160,75'"  selectedimage="file='toolbar_hover.png' source='80,0,160,75'" group="main_toolbar" selected="false"/>
+			<Option pos="343,10,413,85" float="true" align="bottom" text="优化加速" textpadding="11,55,0,0" font="0" textcolor="#FFFFFF" selected="true" foreimage="file='ico_SpeedupOpt.png' dest='11,5,59,53'" normalimage="toolbar_normal.png" hotimage="file='toolbar_hover.png' source='80,0,160,75'" pushedimage="file='toolbar_hover.png' source='80,0,160,75'"  selectedimage="file='toolbar_hover.png' source='80,0,160,75'" group="main_toolbar" selected="false"/>
+			<Option pos="425,10,495,85" float="true" align="bottom" text="电脑专家" textpadding="11,55,0,0" font="0" textcolor="#FFFFFF" selected="true" foreimage="file='ico_expert.png' dest='11,5,59,53'" normalimage="toolbar_normal.png" hotimage="file='toolbar_hover.png' source='80,0,160,75'" pushedimage="file='toolbar_hover.png' source='80,0,160,75'"  selectedimage="file='toolbar_hover.png' source='80,0,160,75'" group="main_toolbar" selected="false"/>
+			<Option pos="507,10,577,85" float="true" align="bottom" text="电脑门诊" textpadding="11,55,0,0" font="0" textcolor="#FFFFFF" selected="true" foreimage="file='ico_diannaomenzhen.png' dest='11,5,59,53'" normalimage="toolbar_normal.png" hotimage="file='toolbar_hover.png' source='80,0,160,75'" pushedimage="file='toolbar_hover.png' source='80,0,160,75'"  selectedimage="file='toolbar_hover.png' source='80,0,160,75'" group="main_toolbar" selected="false"/>
+			<Option pos="589,10,659,85" float="true" align="bottom" text="软件管家" textpadding="11,55,0,0" font="0" textcolor="#FFFFFF" selected="true" foreimage="file='ico_softmgr.png' dest='11,5,59,53'" normalimage="toolbar_normal.png" hotimage="file='toolbar_hover.png' source='80,0,160,75'" pushedimage="file='toolbar_hover.png' source='80,0,160,75'"  selectedimage="file='toolbar_hover.png' source='80,0,160,75'" group="main_toolbar" selected="false"/>
+		</HorizontalLayout>
+		<HorizontalLayout width="180" inset="0,15,1,0">
+			<Button maxwidth="148" maxheight="62" bkimage="file='logo.png'"/>
+		</HorizontalLayout>
+	</HorizontalLayout>
+	<HorizontalLayout bkimage="1.bmp" >
+		<VerticalLayout>
+			<Button pos="50, 50, 196, 168" relativepos="50,50,0,0"  float="true" normalimage="error.png" />
+			<Text pos="250, 60, 350, 160" relativepos="50,50,0,0"  float="true" text="您的电脑已经" font="1" textcolor="#1C1C1C" />
+			<Text pos="360, 55, 400, 160" relativepos="50,50,0,0"  float="true" text="24" font="2" textcolor="#0000FF" />
+			<Text pos="400, 60, 500, 160" relativepos="50,50,0,0"  float="true" text="天没有体检，建议立即体检！" font="1" textcolor="#1C1C1C" />
+			<Text pos="250, 100, 350, 150" relativepos="50,50,0,0"  float="true" text="系统可能已经存在大量风险，安全性和性能都在急速下降，" font="0" textcolor="#555555" />
+			<Text pos="250, 120, 350, 150" relativepos="50,50,0,0"  float="true" text="建议您每天坚持电脑体检，提高电脑的安全和性能" font="0" textcolor="#555555" />
+			<Button pos="230, 250, 396, 316" relativepos="50,50,0,0"  float="true" normalimage="check_normal.png" hotimage="check_hover.png" pushedimage="check_pressed.png" />
+		</VerticalLayout>
+		<VerticalLayout width="250">
+			<Button maxwidth="1" minheight="1000" normalimage="fenge_line.png" />
+			<Button pos="10, 15, 230, 126" relativepos="50,0,0,0"  float="true" minheight="1000" normalimage="register_bg.png" />
+			<Button pos="0, 140, 245, 141" relativepos="50,0,0,0"  float="true" normalimage="rp_line.png" />
+			<Button pos="80, 140, 81, 225" relativepos="50,0,0,0"  float="true" normalimage="fenge_line.png" />
+			<Button pos="160, 140, 161, 225" relativepos="50,0,0,0"  float="true" normalimage="fenge_line.png" />
+			<Button pos="15, 150, 65, 195" relativepos="50,0,0,0"  float="true" normalimage="firewall_open_normal.png" hotimage="firewall_open_hover.png"/>
+			<Text pos="10, 200, 65, 210" relativepos="50,0,0,0"  float="true" text="木马防火墙" font="0" textcolor="#1C1C1C" />
+			<Button pos="95, 150, 145, 195" relativepos="50,0,0,0"  float="true" normalimage="guard_open_normal.png" hotimage="guard_open_hover.png"/>
+			<Text pos="95, 200, 105, 210" relativepos="50,0,0,0"  float="true" text="360保镖" font="0" textcolor="#1C1C1C" />
+			<Button pos="175, 150, 225, 195" relativepos="50,0,0,0"  float="true" normalimage="payinsure_close_normal.png" hotimage="payinsure_close_hover.png"/>
+			<Text pos="175, 200, 185, 210" relativepos="50,0,0,0"  float="true" text="网购先赔" font="0" textcolor="#1C1C1C" />
+			<Button pos="0, 225, 245, 226" relativepos="50,0,0,0"  float="true" normalimage="rp_line.png" />
+		</VerticalLayout>
+	</HorizontalLayout>
+  </VerticalLayout>
+</Window>

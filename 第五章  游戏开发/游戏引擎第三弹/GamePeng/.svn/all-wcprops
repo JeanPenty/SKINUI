@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GamePeng
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GamePeng/stdafx.h
+END
+GamePeng.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GamePeng/GamePeng.vcproj
+END
+GamePeng.rc
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GamePeng/GamePeng.rc
+END
+ScoreView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GamePeng/ScoreView.cpp
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GamePeng/targetver.h
+END
+GamePengDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GamePeng/GamePengDlg.cpp
+END
+ScoreView.h
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GamePeng/ScoreView.h
+END
+NumberString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GamePeng/NumberString.cpp
+END
+GamePengDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GamePeng/GamePengDlg.h
+END
+GamePeng.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GamePeng/GamePeng.cpp
+END
+NumberString.h
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GamePeng/NumberString.h
+END
+SpriteItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GamePeng/SpriteItem.cpp
+END
+GameLogic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GamePeng/GameLogic.cpp
+END
+GamePeng.h
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GamePeng/GamePeng.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GamePeng/stdafx.cpp
+END
+SpriteItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GamePeng/SpriteItem.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GamePeng/ReadMe.txt
+END
+GameLogic.h
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GamePeng/GameLogic.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GamePeng/resource.h
+END
+GamePeng.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GamePeng/GamePeng.vcxproj
+END

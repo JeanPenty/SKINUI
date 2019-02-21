@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%20%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1/%E3%80%90%E5%BC%82%E5%BD%A2%E7%AA%97%E5%8F%A3%E3%80%91%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1%E7%AC%AC%E5%85%AD%E8%AF%BE/Layered
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 229
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%20%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1/%E3%80%90%E5%BC%82%E5%BD%A2%E7%AA%97%E5%8F%A3%E3%80%91%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1%E7%AC%AC%E5%85%AD%E8%AF%BE/Layered/stdafx.h
+END
+Layered.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 235
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%20%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1/%E3%80%90%E5%BC%82%E5%BD%A2%E7%AA%97%E5%8F%A3%E3%80%91%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1%E7%AC%AC%E5%85%AD%E8%AF%BE/Layered/Layered.vcproj
+END
+Layered.rc
+K 25
+svn:wc:ra_dav:version-url
+V 231
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%20%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1/%E3%80%90%E5%BC%82%E5%BD%A2%E7%AA%97%E5%8F%A3%E3%80%91%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1%E7%AC%AC%E5%85%AD%E8%AF%BE/Layered/Layered.rc
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 232
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%20%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1/%E3%80%90%E5%BC%82%E5%BD%A2%E7%AA%97%E5%8F%A3%E3%80%91%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1%E7%AC%AC%E5%85%AD%E8%AF%BE/Layered/targetver.h
+END
+LayeredDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 235
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%20%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1/%E3%80%90%E5%BC%82%E5%BD%A2%E7%AA%97%E5%8F%A3%E3%80%91%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1%E7%AC%AC%E5%85%AD%E8%AF%BE/Layered/LayeredDlg.cpp
+END
+LayeredWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 238
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%20%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1/%E3%80%90%E5%BC%82%E5%BD%A2%E7%AA%97%E5%8F%A3%E3%80%91%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1%E7%AC%AC%E5%85%AD%E8%AF%BE/Layered/LayeredWindow.cpp
+END
+ImageEx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 232
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%20%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1/%E3%80%90%E5%BC%82%E5%BD%A2%E7%AA%97%E5%8F%A3%E3%80%91%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1%E7%AC%AC%E5%85%AD%E8%AF%BE/Layered/ImageEx.cpp
+END
+LayeredDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 233
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%20%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1/%E3%80%90%E5%BC%82%E5%BD%A2%E7%AA%97%E5%8F%A3%E3%80%91%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1%E7%AC%AC%E5%85%AD%E8%AF%BE/Layered/LayeredDlg.h
+END
+LayeredWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 236
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%20%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1/%E3%80%90%E5%BC%82%E5%BD%A2%E7%AA%97%E5%8F%A3%E3%80%91%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1%E7%AC%AC%E5%85%AD%E8%AF%BE/Layered/LayeredWindow.h
+END
+ImageEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 230
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%20%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1/%E3%80%90%E5%BC%82%E5%BD%A2%E7%AA%97%E5%8F%A3%E3%80%91%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1%E7%AC%AC%E5%85%AD%E8%AF%BE/Layered/ImageEx.h
+END
+Layered.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 232
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%20%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1/%E3%80%90%E5%BC%82%E5%BD%A2%E7%AA%97%E5%8F%A3%E3%80%91%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1%E7%AC%AC%E5%85%AD%E8%AF%BE/Layered/Layered.cpp
+END
+Layered.aps
+K 25
+svn:wc:ra_dav:version-url
+V 232
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%20%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1/%E3%80%90%E5%BC%82%E5%BD%A2%E7%AA%97%E5%8F%A3%E3%80%91%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1%E7%AC%AC%E5%85%AD%E8%AF%BE/Layered/Layered.aps
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 231
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%20%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1/%E3%80%90%E5%BC%82%E5%BD%A2%E7%AA%97%E5%8F%A3%E3%80%91%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1%E7%AC%AC%E5%85%AD%E8%AF%BE/Layered/stdafx.cpp
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 231
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%20%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1/%E3%80%90%E5%BC%82%E5%BD%A2%E7%AA%97%E5%8F%A3%E3%80%91%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1%E7%AC%AC%E5%85%AD%E8%AF%BE/Layered/ReadMe.txt
+END
+Layered.h
+K 25
+svn:wc:ra_dav:version-url
+V 230
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%20%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1/%E3%80%90%E5%BC%82%E5%BD%A2%E7%AA%97%E5%8F%A3%E3%80%91%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1%E7%AC%AC%E5%85%AD%E8%AF%BE/Layered/Layered.h
+END
+Resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 231
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%20%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1/%E3%80%90%E5%BC%82%E5%BD%A2%E7%AA%97%E5%8F%A3%E3%80%91%E7%AA%97%E5%8F%A3%E8%AE%BE%E8%AE%A1%E7%AC%AC%E5%85%AD%E8%AF%BE/Layered/Resource.h
+END

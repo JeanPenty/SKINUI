@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Window size="1024,768" clip="true" Resizing="true" bkcolor="#666666" mininfo="400,550" roundcorner="4,4">
+	<Font name="幼圆" size="20" bold="true"/>
+	<Font name="微软雅黑" size="15" italic="true"/>
+	
+	<String text="SkinUI例子示范" font="1" color="#0000FF" pos="0,0,5,5,300,50" id="1"/>
+	<Image path="Res\Skin\main4.jpg" pos="0,3,0,0,0,0" id="1"/>
+	
+	<String text="下面显示三张图片演示，旋转45°   旋转90°并半透明100   旋转180°并灰度化" font="2" color="#FF00FF" pos="0,0,200,520,800,540" id="2"/>
+	<Image path="Res\App\draco.png" pos="0,0,10,540,210,740" id="2" rotation="45"/>
+	<Image path="Res\App\draco.png" pos="0,0,220,540,420,740" id="3" rotation="90" alpha="50"/>
+	<Image path="Res\App\draco.png" pos="0,0,430,540,630,740" id="4" rotation="180" gray="true"/>	
+	
+	<Button pos="1,1,39,0,0,20" type="push" id="5000" normalimage="Res\Button\btn_close_normal.png" hotimage="Res\Button\btn_close_highlight.png" pushedimage="Res\Button\btn_close_down.png" focusedimage="Res\Button\btn_close_normal.png" size="39,20" trans="true"/>
+	<Button pos="1,1,67,0,39,20" type="push" id="5001" normalimage="Res\Button\btn_mini_normal.png" hotimage="Res\Button\btn_mini_highlight.png" pushedimage="Res\Button\btn_mini_down.png" focusedimage="Res\Button\btn_mini_normal.png" size="39,20" trans="true"/>
+	
+	<Button text="这是check按钮" pos="0,0,10,50,110,75" type="check" id="5002" checkimgnormal="Res\CheckBox\checkbox_normal.png" checkimghot="Res\CheckBox\checkbox_hightlight.png" checkimgtickn="Res\CheckBox\checkbox_tick_normal.png" checkimgtickh="Res\CheckBox\checkbox_tick_highlight.png" size="100,15" trans="true" checked="true" fontnormalcolor="#FFFFFF"/>
+	
+	<Button text="这是radio按钮" pos="0,0,10,80,110,95" type="radio" id="5003" checkimgnormal="Res\CheckBox\radiobtn_normal.png" checkimghot="Res\CheckBox\radiobtn_highlight.png" checkimgtickn="Res\CheckBox\radiobtn_tick_normal.png" checkimgtickh="Res\CheckBox\radiobtn_tick_highlight.png" size="100,15" trans="true" checked="false" fontnormalcolor="#FFFFFF"/>
+	
+	<Button pos="0,0,10,110,32,132" type="icon" id="5004" hotimage="Res\Button\allbtn_highlight.png" pushedimage="Res\Button\allbtn_down.png" iconimage="Res\Button\message.png" size="22,22" trans="true"/>
+	
+	<Button pos="0,0,40,110,75,132" type="menu" id="5005" hotimage="Res\Button\menubtn_highlight.png" pushedimage="Res\Button\menubtn_highlight.png" iconimage="Res\Button\imonline.png" menuimage="Res\Button\MainPanel_FolderNode_expandTexture.png" size="35,22" trans="true"/>
+	
+	<Button pos="0,0,80,110,180,132" type="push" id="5045" fontnormalcolor="#FFFFFF" fontselcolor="#FF00FF" trans="true" text="这是一个链接" url="http://www.gymsaga.com"/>
+	
+	
+	<ComBox defaulttext="请输入帐号" pos="0,0,10,140,200,500" id="5006" arrownormalimg="Res\ComboBox\login_inputbtn_normal.png" arrowhotimg="Res\ComboBox\login_inputbtn_highlight.png" arrowpushimg="Res\ComboBox\login_inputbtn_down.png" arrowwidth="23" boxheight="25" textcolor="#FF0000" trans="true">
+		<normalimage value="Res\ComboBox\frameBorderEffect_normalDraw.png" ninepart="3,3,3,3"/>
+		<hotimage value="Res\ComboBox\frameBorderEffect_mouseDownDraw.png" ninepart="3,3,3,3"/>
+		<ListBox selectimage="Res\ComboBox\listitem_select.png" ninepart="3,3,3,3" framecolor="#C08D37"/>
+		<item text="配置文件添加数据1"/>
+		<item text="配置文件添加数据2"/>
+		<item text="配置文件添加数据3"/>
+		<item text="配置文件添加数据4"/>
+	</ComBox>
+	
+	<ComBox pos="0,0,10,175,200,500" id="5007" droplist="true" arrownormalimg="Res\ComboBox\login_inputbtn_normal.png" arrowhotimg="Res\ComboBox\login_inputbtn_highlight.png" arrowpushimg="Res\ComboBox\login_inputbtn_down.png" arrowwidth="23" boxheight="25" textcolor="#0000FF" trans="true">
+		<normalimage value="Res\ComboBox\frameBorderEffect_normalDraw.png" ninepart="3,3,3,3"/>
+		<hotimage value="Res\ComboBox\frameBorderEffect_mouseDownDraw.png" ninepart="3,3,3,3"/>
+		<ListBox selectimage="Res\ComboBox\listitem_select.png" ninepart="3,3,3,3" framecolor="#C08D37"/>
+		<item text="配置文件添加数据1"/>
+		<item text="配置文件添加数据2"/>
+		<item text="配置文件添加数据3"/>
+		<item text="配置文件添加数据4"/>
+	</ComBox>
+	
+	<ComBox text="最新价" bkcolor="#4C564D" format="1" pos="1,1,250,135,120,200" id="5106" arrownormalimg="Res\ComboBox\black_inputbtn_normal.png" arrowhotimg="Res\ComboBox\black_inputbtn_highlight.png" arrowpushimg="Res\ComboBox\black_inputbtn_down.png" arrowwidth="20" boxheight="18" textcolor="#949992" trans="true">
+		<item text="配置文件添加数据1"/>
+		<item text="配置文件添加数据2"/>
+		<item text="配置文件添加数据3"/>
+		<item text="配置文件添加数据4"/>
+	</ComBox>
+	
+	
+	<Edit pos="0,0,10,220,200,245" defaulttext="这是默认字符串">
+		<bknormalimg value="Res\Edit\frameBorderEffect_normalDraw.png" ninepart="2,2,2,2"/>
+		<bkhotimg value="Res\Edit\frameBorderEffect_mouseDownDraw.png" ninepart="2,2,2,2"/>
+	</Edit>
+	
+	<Edit pos="1,1,250,100,120,120" text="0.10" bkcolor="#4C564D" fontnormalcolor="#949992"/>
+	
+	<Edit pos="0,0,10,250,200,275" iconimage="Res\Edit\keyboard.png" passwordchar="*" clientpos="3,3" handcur="true" scrollimage="Res\Scroll\SKIN_SCROLL.bmp">
+		<bknormalimg value="Res\Edit\frameBorderEffect_normalDraw.png" ninepart="2,2,2,2"/>
+		<bkhotimg value="Res\Edit\frameBorderEffect_mouseDownDraw.png" ninepart="2,2,2,2"/>
+	</Edit>
+		
+	<MulitiEdit text="这是多行edit控件 这是多行edit控件" pos="0,0,10,285,200,350"  multiline="true" clientpos="3,3" scrollimage="Res\Scroll\SKIN_SCROLL.bmp"> 
+		<bknormalimg value="Res\Edit\frameBorderEffect_normalDraw.png" ninepart="2,2,2,2"/>
+		<bkhotimg value="Res\Edit\frameBorderEffect_mouseDownDraw.png" ninepart="2,2,2,2"/>
+	</MulitiEdit>
+	
+	<ListBox pos="0,0,10,360,200,500" scrollimage="Res\Scroll\SKIN_SCROLL.bmp">
+		<bknormalimage value="Res\Edit\frameBorderEffect_normalDraw.png" ninepart="3,3,3,3"/>
+		<selectimage value="Res\ComboBox\listitem_select.png" ninepart="3,3,3,3"/>
+		<hovenimage value="Res\ListBox\highlight.png" ninepart="3,3,3,3"/>	
+		<item text="111"/>
+		<item text="111"/>
+		<item text="111"/>
+		<item text="111"/>
+		<item text="111"/>
+		<item text="111"/>
+		<item text="111"/>
+		<item text="111"/>
+		<item text="111"/>
+		<item text="111"/>
+		<item text="111"/>
+	</ListBox>
+	
+	<ListCtrl pos="0,1,250,50,300,300" scrollimage="Res\Scroll\SKIN_SCROLL.bmp" id="5010" itemheight="30">
+		<headbkimage value="Res\ListCtrl\folder_nav_item_bg_hover.png" ninepart="2,2,2,2"/>
+		<headpressimage value="Res\ListCtrl\folder_nav_item_bg_pressed.png" ninepart="2,2,2,2"/>
+		<headgirdimage value="Res\ListCtrl\category_sep.png"/>
+		
+		<hovenimage value="Res\ListCtrl\item_bg_hover.png" ninepart="2,2,2,2"/>		
+		<selectimage value="Res\ListCtrl\item_bg_selected.png" ninepart="2,2,2,2"/>		
+		<checkimage value1="Res\ListCtrl\check.png" value2="Res\ListCtrl\uncheck.png"/>	
+	</ListCtrl>
+	
+	
+	<Progress range="0,100" value="90" step="1" trans="true" bkimage="Res\progress\progress_bg.png" stepimage="Res\progress\Contrast.png" floatimage="Res\progress\Sip.png" floattime="40" pos="0,1,250,330,300,350" id="5011"/>
+	<Progress vertical="true" range="0,100" value="90" step="5" trans="true" bkimage="Res\progress\Vprogress_bg.png" stepimage="Res\progress\VContrast.png" floatimage="Res\progress\VSip.png" floattime="10" pos="1,1,280,50,260,350" id="5012"/>
+	
+	<RichEdit pos="0,1,250,370,300,500" scrollimage="Res\Scroll\SKIN_SCROLL.bmp" bkcolor="#FF00FF" text="richedit"/>
+	
+	<Slider pos="1,1,280,370,255,494" vertical="true" range="0,100" value="100" trans="true" bkimage="Res\SliderCtrl\individuation.png" thumimage="Res\SliderCtrl\individuation_bar.png" disimage="Res\SliderCtrl\individuation_disable.png" />
+	<Slider pos="0,0,10,520,185,531" range="0,100" value="10" trans="true" bkimage="Res\SliderCtrl\sound_back.png" buttonimage="Res\SliderCtrl\sound_button.png" traceimage="Res\SliderCtrl\sound_Trace.png" />
+	
+	<TabCtrl pos="1,1,250,50,20,84">
+		<item style="8" tiptext="联系人" iconimage="Res\TabCtrl\icon_contacts_normal.png" selimage="Res\TabCtrl\icon_contacts_selected.png"/>
+		<item style="8" tiptext="朋友" iconimage="Res\TabCtrl\FriendSocial_TabBtn_Normal.png" selimage="Res\TabCtrl\FriendSocial_TabBtn_Focus.png"/>
+		<item style="8" tiptext="群/讨论组" iconimage="Res\TabCtrl\icon_group_normal.png" selimage="Res\TabCtrl\icon_group_selected.png"/>
+		<backimage path="Res\TabCtrl\main_tab_bkg.png" ninepart="5,1,5,1"/>
+		<itemimage highlight="Res\TabCtrl\main_tab_highlight.png" down="Res\TabCtrl\main_tab_check.png" ninepart="5,1,5,1"/>
+		<itemarrowimage highlight="Res\TabCtrl\main_tabbtn_highlight.png" down="Res\TabCtrl\main_tabbtn_down.png"/>
+		<itemsize size="75,35" arrowsize="56,19"/>
+	</TabCtrl>
+	
+	<TabCtrl pos="2,2,10,50,373,5">
+		<item text="首页" iconimage="Res\TabCtrl\plugin_87.png" selimage="Res\TabCtrl\plugin_87.png"/>
+		<item text="杀毒" iconimage="Res\TabCtrl\plugin_706.png" selimage="Res\TabCtrl\plugin_706.png"/>
+		<item text="清理垃圾" iconimage="Res\TabCtrl\plugin_2061.png" selimage="Res\TabCtrl\plugin_2061.png"/>
+		<backimage path="Res\TabCtrl\back.png" ninepart="2,2,2,2"/>
+		<itemimage highlight="Res\TabCtrl\Hoven.png" down="Res\TabCtrl\down.png" ninepart="2,2,2,2"/>
+		<itemsize size="120,45"/>
+	</TabCtrl>
+	
+	<Flash path="Res\Flash\hamster.swf" pos="3,3,300,230,10,10" id="5631"/>
+</Window>	

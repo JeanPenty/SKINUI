@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/MFC%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E4%B9%8B%E8%81%8A%E5%A4%A9%E5%AE%A4/SpeakerClient
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/MFC%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E4%B9%8B%E8%81%8A%E5%A4%A9%E5%AE%A4/SpeakerClient/stdafx.h
+END
+TCPScoketClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/MFC%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E4%B9%8B%E8%81%8A%E5%A4%A9%E5%AE%A4/SpeakerClient/TCPScoketClient.cpp
+END
+SpeakerClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/MFC%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E4%B9%8B%E8%81%8A%E5%A4%A9%E5%AE%A4/SpeakerClient/SpeakerClient.h
+END
+TCPScoketClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/MFC%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E4%B9%8B%E8%81%8A%E5%A4%A9%E5%AE%A4/SpeakerClient/TCPScoketClient.h
+END
+LogonDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/MFC%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E4%B9%8B%E8%81%8A%E5%A4%A9%E5%AE%A4/SpeakerClient/LogonDlg.cpp
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/MFC%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E4%B9%8B%E8%81%8A%E5%A4%A9%E5%AE%A4/SpeakerClient/targetver.h
+END
+SpeakerClient.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/MFC%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E4%B9%8B%E8%81%8A%E5%A4%A9%E5%AE%A4/SpeakerClient/SpeakerClient.vcproj
+END
+LogonDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/MFC%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E4%B9%8B%E8%81%8A%E5%A4%A9%E5%AE%A4/SpeakerClient/LogonDlg.h
+END
+SpeakerClient.rc
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/MFC%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E4%B9%8B%E8%81%8A%E5%A4%A9%E5%AE%A4/SpeakerClient/SpeakerClient.rc
+END
+SpeakerClientDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/MFC%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E4%B9%8B%E8%81%8A%E5%A4%A9%E5%AE%A4/SpeakerClient/SpeakerClientDlg.cpp
+END
+SpeakerClientDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/MFC%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E4%B9%8B%E8%81%8A%E5%A4%A9%E5%AE%A4/SpeakerClient/SpeakerClientDlg.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/MFC%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E4%B9%8B%E8%81%8A%E5%A4%A9%E5%AE%A4/SpeakerClient/stdafx.cpp
+END
+SpeakerClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/MFC%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E4%B9%8B%E8%81%8A%E5%A4%A9%E5%AE%A4/SpeakerClient/SpeakerClient.cpp
+END
+SpeakerClient.aps
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/MFC%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E4%B9%8B%E8%81%8A%E5%A4%A9%E5%AE%A4/SpeakerClient/SpeakerClient.aps
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/MFC%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E4%B9%8B%E8%81%8A%E5%A4%A9%E5%AE%A4/SpeakerClient/ReadMe.txt
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%20%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/MFC%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E4%B9%8B%E8%81%8A%E5%A4%A9%E5%AE%A4/SpeakerClient/resource.h
+END

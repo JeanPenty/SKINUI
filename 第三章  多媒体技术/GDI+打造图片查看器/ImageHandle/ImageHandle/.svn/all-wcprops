@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/MFC_CODE/!svn/ver/11/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/GDI+%E6%89%93%E9%80%A0%E5%9B%BE%E7%89%87%E6%9F%A5%E7%9C%8B%E5%99%A8/ImageHandle/ImageHandle
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/GDI+%E6%89%93%E9%80%A0%E5%9B%BE%E7%89%87%E6%9F%A5%E7%9C%8B%E5%99%A8/ImageHandle/ImageHandle/stdafx.h
+END
+ImageHandle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/GDI+%E6%89%93%E9%80%A0%E5%9B%BE%E7%89%87%E6%9F%A5%E7%9C%8B%E5%99%A8/ImageHandle/ImageHandle/ImageHandle.cpp
+END
+ImageHandle.aps
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/GDI+%E6%89%93%E9%80%A0%E5%9B%BE%E7%89%87%E6%9F%A5%E7%9C%8B%E5%99%A8/ImageHandle/ImageHandle/ImageHandle.aps
+END
+BaseDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/GDI+%E6%89%93%E9%80%A0%E5%9B%BE%E7%89%87%E6%9F%A5%E7%9C%8B%E5%99%A8/ImageHandle/ImageHandle/BaseDialog.h
+END
+ImageHandle.h
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/GDI+%E6%89%93%E9%80%A0%E5%9B%BE%E7%89%87%E6%9F%A5%E7%9C%8B%E5%99%A8/ImageHandle/ImageHandle/ImageHandle.h
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/GDI+%E6%89%93%E9%80%A0%E5%9B%BE%E7%89%87%E6%9F%A5%E7%9C%8B%E5%99%A8/ImageHandle/ImageHandle/targetver.h
+END
+GdiPlusImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/GDI+%E6%89%93%E9%80%A0%E5%9B%BE%E7%89%87%E6%9F%A5%E7%9C%8B%E5%99%A8/ImageHandle/ImageHandle/GdiPlusImage.cpp
+END
+ImageHandle.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/GDI+%E6%89%93%E9%80%A0%E5%9B%BE%E7%89%87%E6%9F%A5%E7%9C%8B%E5%99%A8/ImageHandle/ImageHandle/ImageHandle.vcproj
+END
+GdiPlusImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/GDI+%E6%89%93%E9%80%A0%E5%9B%BE%E7%89%87%E6%9F%A5%E7%9C%8B%E5%99%A8/ImageHandle/ImageHandle/GdiPlusImage.h
+END
+ImageHandle.rc
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/GDI+%E6%89%93%E9%80%A0%E5%9B%BE%E7%89%87%E6%9F%A5%E7%9C%8B%E5%99%A8/ImageHandle/ImageHandle/ImageHandle.rc
+END
+ImageHandleDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/MFC_CODE/!svn/ver/11/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/GDI+%E6%89%93%E9%80%A0%E5%9B%BE%E7%89%87%E6%9F%A5%E7%9C%8B%E5%99%A8/ImageHandle/ImageHandle/ImageHandleDlg.cpp
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/GDI+%E6%89%93%E9%80%A0%E5%9B%BE%E7%89%87%E6%9F%A5%E7%9C%8B%E5%99%A8/ImageHandle/ImageHandle/stdafx.cpp
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/GDI+%E6%89%93%E9%80%A0%E5%9B%BE%E7%89%87%E6%9F%A5%E7%9C%8B%E5%99%A8/ImageHandle/ImageHandle/ReadMe.txt
+END
+ImageHandleDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/GDI+%E6%89%93%E9%80%A0%E5%9B%BE%E7%89%87%E6%9F%A5%E7%9C%8B%E5%99%A8/ImageHandle/ImageHandle/ImageHandleDlg.h
+END
+BaseDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/GDI+%E6%89%93%E9%80%A0%E5%9B%BE%E7%89%87%E6%9F%A5%E7%9C%8B%E5%99%A8/ImageHandle/ImageHandle/BaseDialog.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%20%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/GDI+%E6%89%93%E9%80%A0%E5%9B%BE%E7%89%87%E6%9F%A5%E7%9C%8B%E5%99%A8/ImageHandle/ImageHandle/resource.h
+END

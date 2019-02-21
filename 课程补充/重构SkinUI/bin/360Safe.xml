@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Window size="910,610" mininfo="840,600" bkcolor="#c5c5c5">
+	<Font name="微软雅黑" size="12"/>
+	<Font name="微软雅黑" size="16"/>
+	<Font name="微软雅黑" size="22"/>
+  	<Font name="微软雅黑" size="30"/>
+	<Image path="360\bg.png" pos="0,3,1,1,1,1" id="1"/>
+	<Image path="360\medal.png" pos="1,1,190,1,164,30" id="2"/>
+	<Image path="360\1.bmp" pos="0,3,1,121,1,1" id="3"/>
+	<Image path="360\logo.png" pos="1,1,160,50,10,112" id="4"/>
+	<Image path="360\register_bg.png" pos="1,1,250,132,5,265" id="5"/>	
+	<Image path="360\fenge_line.png" pos="1,3,255,121,254,1" id="6"/>	
+	<Image path="360\error.png" pos="0,0,51,168,197,286" id="7"/>
+	
+	<String text="360安全卫士9.2" font="1" color="#FFFFFF" pos="0,0,15,10,200,50" id="1"/>
+	<String text="您的电脑已经" pos="0,0,250, 180, 350, 280" font="2" color="#1C1C1C" id="2"/>
+	<String text="24" pos="0,0,360, 175, 400, 280" font="3" color="#0000FF" id="3"/>
+	<String text="天没有体检，建议立即体检！" pos="0,0,400,180,680,280" font="2" color="#1C1C1C" id="4"/>
+	<String text="系统可能已经存在大量风险，安全性和性能都在急速下降，" pos="0,0,250, 220, 680, 270" font="1" color="#555555" id="5"/>
+	<String text="建议您每天坚持电脑体检，提高电脑的安全和性能" pos="0,0,250, 240, 680, 280" font="1" color="#555555" id="6"/>
+	<String text="执行电脑检查啥的" pos="0,0,250, 240, 680, 280" font="4" color="#0000FF" id="7" visible="false"/>
+			
+	<String text="控件自己放吧，不折腾了！so easy！" pos="3,3,240, 350, 1, 1" font="4" format="8208" color="#0000FF" id="8"/>
+	
+	<Button pos="1,1,35,0,8,22" type="push" id="5000" normalimage="360\close_normal.png" hotimage="360\close_hover.png" pushedimage="360\close_pressed.png" focusedimage="360\close_normal.png" size="27,22" trans="true"/>
+	<Button pos="1,1,62,0,35,22" type="push" id="5001" normalimage="360\min_normal.png" hotimage="360\min_hover.png" pushedimage="360\min_pressed.png" focusedimage="360\min_normal.png" size="27,22" trans="true"/>
+	<Button pos="1,1,89,0,62,22" type="push" id="5003" normalimage="360\menu_normal.png" hotimage="360\menu_hover.png" pushedimage="360\menu_pressed.png" focusedimage="360\menu_normal.png" size="27,22" trans="true"/>
+	<Button pos="1,1,116,0,89,22" type="push" id="5004" normalimage="360\feedback_normal.png" hotimage="360\feedback_hover.png" pushedimage="360\feedback_pressed.png" focusedimage="360\feedback_normal.png" size="27,22" trans="true"/>
+	<Button pos="1,1,143,0,116,22" type="push" id="5005" normalimage="360\skin_normal.png" hotimage="360\skin_hover.png" pushedimage="360\skin_pressed.png" focusedimage="360\skin_normal.png" size="27,22" trans="true"/>
+	
+	<TabCtrl pos="0,0,10,40,670,120" paddingtext="17,65" fontnormalcolor="#FFFFFF" trans="true" id="5900">
+		<item text="电脑体检" iconimage="360\ico_Examine.png" selimage="360\ico_Examine.png"/>
+		<item text="木马查杀" iconimage="360\ico_dsmain.png" selimage="360\ico_dsmain.png"/>
+		<item text="系统修复" iconimage="360\ico_SysRepair.png" selimage="360\ico_SysRepair.png"/>
+		<item text="电脑清理" iconimage="360\ico_TraceCleaner.png" selimage="360\ico_TraceCleaner.png"/>
+		<item text="优化加速" iconimage="360\ico_SpeedupOpt.png" selimage="360\ico_SpeedupOpt.png"/>
+		<item text="电脑专家" iconimage="360\ico_expert.png" selimage="360\ico_expert.png"/>
+		<item text="电脑门诊" iconimage="360\ico_diannaomenzhen.png" selimage="360\ico_diannaomenzhen.png"/>
+		<item text="软件管家" iconimage="360\ico_softmgr.png" selimage="360\ico_softmgr.png"/>
+	
+		<itemimage highlight="360\toolbar_hover.png" down="360\toolbar_hover.png" ninepart="2,2,2,2"/>
+		<itemsize size="80,80"/>
+	</TabCtrl>
+	
+	<Button pos="0,0,230,350,396,416" type="push" id="5006" normalimage="360\check_normal.png" hotimage="360\check_hover.png" pushedimage="360\check_pressed.png" focusedimage="360\check_normal.png" size="27,22" trans="true"/>
+	
+	
+</Window>	

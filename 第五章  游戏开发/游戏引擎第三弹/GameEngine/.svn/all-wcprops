@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/stdafx.h
+END
+WindowImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/WindowImpl.h
+END
+VirtualSlider.h
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/VirtualSlider.h
+END
+GameEngine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/GameEngine.cpp
+END
+GameEngine.aps
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/GameEngine.aps
+END
+cCWnd.h
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/cCWnd.h
+END
+D3DDirect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/D3DDirect.cpp
+END
+TraceDebug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/TraceDebug.cpp
+END
+D3DFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/D3DFont.h
+END
+D3DSprite.h
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/D3DSprite.h
+END
+TraceDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/TraceDialog.cpp
+END
+VirtualWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/VirtualWindow.cpp
+END
+dllmain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/dllmain.cpp
+END
+GameEngine.rc
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/GameEngine.rc
+END
+VirtualEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/VirtualEngine.h
+END
+LapseCount.h
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/LapseCount.h
+END
+D3DSound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/D3DSound.cpp
+END
+type.h
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/type.h
+END
+VirtualButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/VirtualButton.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/stdafx.cpp
+END
+WindowImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/WindowImpl.cpp
+END
+VirtualSlider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/VirtualSlider.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/resource.h
+END
+bass.h
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/bass.h
+END
+cCWnd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/cCWnd.cpp
+END
+D3DDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/D3DDevice.h
+END
+D3DTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/D3DTexture.h
+END
+TextureManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/TextureManager.h
+END
+D3DSprite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/D3DSprite.cpp
+END
+D3DFont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/D3DFont.cpp
+END
+D3DDirect.h
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/D3DDirect.h
+END
+TraceDebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/TraceDebug.h
+END
+VirtualEngine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/VirtualEngine.cpp
+END
+LapseCount.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/LapseCount.cpp
+END
+GameEngine.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/GameEngine.vcproj
+END
+type.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/type.cpp
+END
+VirtualButton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/VirtualButton.cpp
+END
+TraceDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/TraceDialog.h
+END
+Array.h
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/Array.h
+END
+VirtualWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/VirtualWindow.h
+END
+GameEngineHead.h
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/GameEngineHead.h
+END
+D3DSound.h
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/D3DSound.h
+END
+D3DDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/D3DDevice.cpp
+END
+D3DTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/D3DTexture.cpp
+END
+TextureManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/TextureManager.cpp
+END
+MsgEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%20%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E7%AC%AC%E4%B8%89%E5%BC%B9/GameEngine/MsgEvent.h
+END

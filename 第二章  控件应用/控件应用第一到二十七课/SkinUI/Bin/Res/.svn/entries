@@ -1,0 +1,132 @@
+10
+
+dir
+11
+http://code.taobao.org/svn/MFC_CODE/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8%E7%AC%AC%E4%B8%80%E5%88%B0%E4%BA%8C%E5%8D%81%E4%B8%83%E8%AF%BE/SkinUI/Bin/Res
+http://code.taobao.org/svn/MFC_CODE
+
+
+
+2015-07-06T12:17:18.443384Z
+7
+gym1039
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+440268f4-74eb-4547-8bac-786bd1d93e04
+
+BACK.jpg
+file
+
+
+
+
+2016-10-11T00:58:08.962182Z
+fdac5da0c984943939bd2d3b5393bb9c
+2015-07-06T12:17:18.443384Z
+7
+gym1039
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+114173
+
+ListCtrl
+dir
+
+Status
+dir
+
+main.jpg
+file
+
+
+
+
+2016-10-11T00:58:08.984183Z
+5d2acafc0bd1f44d8ee767dc1185d3a5
+2015-07-06T12:17:18.443384Z
+7
+gym1039
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+83147
+
+ListBox
+dir
+
+Menu
+dir
+
+TreeCtrl
+dir
+
+progress
+dir
+
+Edit
+dir
+
+SliderCtrl
+dir
+
+ComboBox
+dir
+
+Button
+dir
+
+TabCtrl
+dir
+
+Scroll
+dir
+

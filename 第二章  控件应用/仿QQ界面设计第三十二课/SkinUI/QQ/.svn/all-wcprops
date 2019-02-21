@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/stdafx.h
+END
+SkinManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/SkinManager.cpp
+END
+ChatRichEdit.h
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/ChatRichEdit.h
+END
+QQ.rc
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/QQ.rc
+END
+PasswordControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/PasswordControl.cpp
+END
+Expression.h
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/Expression.h
+END
+ChatDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/ChatDlg.cpp
+END
+HideWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/HideWindow.h
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/targetver.h
+END
+QQDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/QQDlg.cpp
+END
+LogonDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/LogonDlg.h
+END
+BuddyListBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/BuddyListBox.cpp
+END
+ListBoxEx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/ListBoxEx.cpp
+END
+GlobalUnits.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/GlobalUnits.cpp
+END
+ScrollBarEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/ScrollBarEx.h
+END
+QQ.h
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/QQ.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/stdafx.cpp
+END
+ChatRichEdit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/ChatRichEdit.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/resource.h
+END
+Expression.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/Expression.cpp
+END
+SkinDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/SkinDlg.h
+END
+HideWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/HideWindow.cpp
+END
+MessageBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/MessageBox.h
+END
+QQ.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/QQ.vcproj
+END
+SkinManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/SkinManager.h
+END
+LogonDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/LogonDlg.cpp
+END
+PasswordControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/PasswordControl.h
+END
+ChatDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/ChatDlg.h
+END
+QQDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/QQDlg.h
+END
+ScrollBarEx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/ScrollBarEx.cpp
+END
+QQ.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/QQ.cpp
+END
+BuddyListBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/BuddyListBox.h
+END
+GlobalUnits.h
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/GlobalUnits.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/ReadMe.txt
+END
+SkinDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/SkinDlg.cpp
+END
+MessageBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/MFC_CODE/!svn/ver/7/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%20%E6%8E%A7%E4%BB%B6%E5%BA%94%E7%94%A8/%E4%BB%BFQQ%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E8%AF%BE/SkinUI/QQ/MessageBox.cpp
+END
